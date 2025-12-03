@@ -1272,3 +1272,5 @@ vless://2456f90c-5183-476d-b069-16ae74ce120f@104.238.71.253:2096?host=fast01.086
 vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@104.17.102.95:2096?host=ak.hexo.cloudns.ch&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=ak.hexo.cloudns.ch&tls=true&type=ws&udp=false#CF%E4%B8%AD%E8%BD%AC_1202235276
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwUW1uQzAzSk9iYlBoZGg1RkJKSGdENmpuVExjaHNSQQ==@95.164.116.33:443?cipher=chacha20-ietf-poly1305#%F0%9F%94%A5Join%20Telegram:@Farah_VPN%F0%9F%9F%A3
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.41:38388?cipher=aes-256-cfb#%F0%9F%87%BB%F0%9F%87%B3VN-103.186.154.41-6554
+
+# Auto updated at 2025-12-03 03:15:25 UTC by GitHub Actions
